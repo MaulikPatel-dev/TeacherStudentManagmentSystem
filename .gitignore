@@ -1,6 +1,7 @@
 # Ignore build output folders
 bin/
 obj/
+.vs/
 # Ignore .NET 9 specific folders
 **/bin/Debug/net9.0/
 **/obj/

@@ -1,0 +1,6 @@
+@TSMS.Web_HostAddress = http://localhost:5213
+
+GET {{TSMS.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
